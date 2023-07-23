@@ -1,7 +1,4 @@
 # Hibabejelentő rendszer ami a helyi gépen található SQLite adatbázist használja. 
-A távoli gépen lévő (MySQL/MariaDB) adatbázist használó, három különféle 
-programozási nyelven (PHP,Java,Python) megírt verzió a Hibajegy-01 repóban van.
-
 Ez a verzió (Python + Tkinter + SQLite) a helyi gépen létrehozott adatbázist használja,
 és a hangsúly az MVC (Model-View-Controller) / Modell-Nézet-Vezérlő  programtervezési mintán található. 
 
